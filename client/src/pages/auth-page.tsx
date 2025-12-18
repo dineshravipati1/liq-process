@@ -83,7 +83,7 @@ export default function AuthPage() {
               />
             </div>
             <p className="text-sm text-muted-foreground">
-              AI-powered licensing management platform
+              AI-powered licensing management platform Dinesh testing
             </p>
           </div>
 
